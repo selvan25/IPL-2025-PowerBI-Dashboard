@@ -24,30 +24,6 @@ This Power BI project was built using a **public Kaggle dataset** and includes o
 
 ---
 
-## 📂 Folder Structure
-
-IPL-2025-PowerBI-Dashboard/
-│
-├── assets/ # Screenshots & visual assets
-│ ├── dashboard-preview.png
-│ ├── data-model.png
-│ ├── navigation-bar.png
-│ └── page-layouts/
-│ ├── page1-overview.png
-│ ├── page2-team-performance.png
-│ ├── page3-player-performance.png
-│ └── page4-match-level-insights.png
-│
-├── docs/ # Technical documentation
-│ ├── DAX_Measures.md
-│ ├── Data_Model_Explanation.md
-│ └── Project_Features.md
-│
-├── pbix/
-│ └── IPL_2025_Dashboard.pbix # Power BI dashboard file
-│
-├── README.md
-
 ## 📌 Dashboard Pages & Highlights
 
 ### 📍 Page 1: Tournament Overview
