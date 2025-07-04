@@ -48,3 +48,11 @@ This Power BI project was built using a **public Kaggle dataset** and includes o
 
 ---
 
+📬 Contact
+If you'd like to collaborate, discuss this project, or offer suggestions:
+
+Author: S Selvan
+LinkedIn: https://www.linkedin.com/in/selvan-rajan-968823213/
+GitHub: https://github.com/selvan25
+
+⭐ If you found this helpful, please star this repository!
