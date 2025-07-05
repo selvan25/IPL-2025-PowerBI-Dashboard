@@ -9,7 +9,7 @@ This document describes the data model design and relationships used in the IPL 
 
       Matches: Match metadata including match_id, venue, date, and phase.
 
- ** 📊 Dimension & Calculated Tables**
+  **📊 Dimension & Calculated Tables**
 
       TeamTotalsTable: Aggregated metrics like team totals, overs, points, wickets, etc.
 
@@ -26,7 +26,7 @@ This document describes the data model design and relationships used in the IPL 
       WormChartData: Created using SUMMARIZE for building over-wise run progression (worm chart).
 
 
- ** 🔗 Relationships**
+  **🔗 Relationships**
 
     ✅ Primary Key Relationships
 
@@ -55,7 +55,7 @@ This document describes the data model design and relationships used in the IPL 
           Fielding_Stats[fielder] → Players[player]
 
 
-**  ⚙️ Parameter Tables**
+  **⚙️ Parameter Tables**
 
       Batting Metrics and Bowling Metrics parameters used to dynamically switch between KPIs on Page 3.
 
