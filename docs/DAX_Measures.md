@@ -1,134 +1,139 @@
-**DAX Measures Documentation for IPL 2025 Power BI Dashboard**
+                                **DAX Measures Documentation for IPL 2025 Power BI Dashboard**
 
 This file contains all custom DAX measures used across the 4 pages of the IPL 2025 Power BI Dashboard, categorized by purpose and page.
 
 This document outlines all the key DAX Measures used in the IPL 2025 Power BI Dashboard project. The measures are organized based on the report page in which they are used.
 
+
 **📄 Page 1: Tournament Overview**
 
-✅ Core Team Metrics
+    ✅ Core Team Metrics
 
-Total Matches
+      Total Matches
 
-Total Points
+      Total Points
 
-Total Wickets
+      Total Wickets
 
-Total Runs Scored
+      Total Runs Scored
 
-Total Runs Conceded
+      Total Runs Conceded
 
-Total Wins / Losses
+      Total Wins / Losses
 
-Win %
+      Win %
 
-🥇 Rankings and Performance
+    🥇 Rankings and Performance
 
-Team Rank
+      Team Rank
 
-Champions
+      Champions
 
-Runner Up
+      Runner Up
 
-Average Run Rate
+      Average Run Rate
 
-Highest Team Score
+      Highest Team Score
 
-Lowest Team Score
+      Lowest Team Score
 
-NRR (Net Run Rate)
+      NRR (Net Run Rate)
+
 
 **📄 Page 2: Team Performance Metrics**
 
-📌 Team KPIs
+    📌 Team KPIs
 
-Total Fours
+      Total Fours
 
-Total Sixes
+      Total Sixes
 
-Top Scorer (Name and Runs)
+      Top Scorer (Name and Runs)
 
-Top Wicket Taker
+      Top Wicket Taker
 
-Top Fielder (Max Catches)
+      Top Fielder (Max Catches)
 
-Total Wickets Taken / Lost
+      Total Wickets Taken / Lost
 
-Lowest Score (Conditional by innings and result)
+      Lowest Score (Conditional by innings and result)
+
 
 **📄 Page 3: Player Performance Metrics**
 
-🏏 Batting Metrics
+  🏏 Batting Metrics
 
-Orange Cap
+      Orange Cap
 
-Total 4s and 6s of the Season
+      Total 4s and 6s of the Season
 
-Most Fours (Innings)
+      Most Fours (Innings)
 
-Most Sixes (Innings)
+      Most Sixes (Innings)
 
-Most Fifties / Centuries
+      Most Fifties / Centuries
 
-Fastest Fifty / Century per Batsman
+      Fastest Fifty / Century per Batsman
 
-Highest Scores
+      Highest Scores
 
-Best Batting Averages
+      Best Batting Averages
 
-Curvv Super Striker of the Season
+      Curvv Super Striker of the Season
 
-🎯 Bowling Metrics
+  🎯 Bowling Metrics
 
-Purple Cap
+      Purple Cap
 
-Most Runs Conceded (Innings)
+      Most Runs Conceded (Innings)
 
-Dot Balls (Tournament and Innings)
+      Dot Balls (Tournament and Innings)
 
-Most Maidens
+      Most Maidens
 
-Hat-tricks
+      Hat-tricks
 
-Bowling Average
+      Bowling Average
 
-Bowling Strike Rate
+      Bowling Strike Rate
 
-Bowling Economy
+      Bowling Economy
 
-🧠 Dynamic Metric Selection
+  🧠 Dynamic Metric Selection
 
-Parameter: Batting Metrics, Bowling Metrics
+      Parameter: Batting Metrics, Bowling Metrics
 
-Measure: Selected Measure (for dynamic visuals)
+      Measure: Selected Measure (for dynamic visuals)
+
 
 **📄 Page 4: Match-Level Insights**
 
-⚙️ Worm Chart & Ball-by-Ball KPIs
+  ⚙️ Worm Chart & Ball-by-Ball KPIs
 
-4s
+      4s
 
-6s
+      6s
 
-B (Balls faced excluding wides and no-balls)
+      B (Balls faced excluding wides and no-balls)
 
-Dots
+      Dots
 
-W (Wickets excluding runouts)
+      W (Wickets excluding runouts)
 
-O (Overs bowled)
+      O (Overs bowled)
 
-R (Runs excluding legbyes/byes)
+      R (Runs excluding legbyes/byes)
 
-RC (Runs conceded including extras)
+      RC (Runs conceded including extras)
 
-SR (Strike Rate)
+      SR (Strike Rate)
 
-Econ (Economy Rate)
+      Econ (Economy Rate)
 
-M (Maidens)
+      M (Maidens)
 
 This summary ensures all calculated insights are documented clearly, aligning with the modular design of the dashboard.
+
 
 **✅ Notes**
 
