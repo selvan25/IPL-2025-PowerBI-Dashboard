@@ -61,7 +61,7 @@ This document describes the data model design and relationships used in the IPL 
 
 **🗂️ Key Notes**
 
-Star schema is followed where possible.
+Star schema is followed where ever possible.
 
 Calculated columns like Over_Number, BallNumber_Faced_By_Striker are used for advanced visuals and performance KPIs.
 
